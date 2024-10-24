@@ -1,0 +1,25 @@
+<?php
+
+ header("Content-Type: text/html;charset=UTF-8");          
+	$host = 'localhost';
+    $user = 'sbs';
+    $password = 'Aa1231234';
+    $database = 'sbs_v81';
+
+    $site = "https://www.59sbs168.com/";
+
+$connection = mysqli_connect($host, $user, $password, $database);
+$connection -> set_charset("utf8");
+// Check connection
+if (!$connection) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+
+	$queryam = "SELECT am_perc FROM am_users WHERE am_code LIKE '%$codeaff%' <> ''";
+    $resultam = mysqli_query($connection, $queryam);
+		while ($rowam = mysqli_fetch_assoc($resultam)) {
+            $per = $rowam['am_perc'];
+ 			$amcode = $rowam['am_code'];
+	}
+$_SESSION['perc'] = $per;
+ ?>

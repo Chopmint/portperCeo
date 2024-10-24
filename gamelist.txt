@@ -1,0 +1,84 @@
+
+
+
+**********game/fish
+SkyWind Group	swg	swg.txt
+CQ9	cq9	-
+JILI	jl	jl.txt
+KINGMAKER	km	km.txt
+Fachai	fc	fc.txt
+Funky Games	funky	funky.txt
+BG	bg	-
+SimplePlay	sp	-
+EvoPlay	ep	ep.txt
+AMB Poker	amb	-
+Joker	joker	joker.txt
+****************************
+
+
+
+**********SLOT
+Micro Gaming	mg	mg.txt
+Green Dragon	gd88	-
+Gamatron	gamatron	gamatron.txt
+Gold Diamond	gdg	-
+PragmaticPlay	pp	pp.txt
+SkyWind Group	swg	swg.txt
+AE Gaming Slot	aws	aws.txt
+CQ9	cq9	-
+KA Gaming	kg	kg.txt
+Rich88	r88	-
+JILI	jl	jl.txt
+Fachai	fc	fc.txt
+Funky Games	funky	funky.txt
+PlayStar	ps	-
+SimplePlay	sp	-
+EvoPlay	ep	ep.txt
+NetEnt	netent	netent.txt
+AMB Poker	amb	-
+TTG	ttg	-
+PG	pg	-
+KINGMAKER	km	km.txt
+Joker	joker	joker.txt
+
+Qtech	qtech	
+Wazdan (waz.txt)
+1X2 Gaming (1x2.txt)
+Hacksaw Gaming (hak.txt)
+Fastasma Gaming (fng.txt)
+NetGames Enterainment(nge.txt)
+Push Gaming (pug.txt)
+Game Art (ga.txt)
+Play n Go (png.txt)
+Nolimit City (nlc.txt)
+Thunderkick (tk.txt)
+Yggdrasil (ygg.txt)
+Quickspin (qs.txt)
+Habanero (hab.txt)
+Relax Gaming (rlx.txt)
+Dragoon Soft (ds.txt)
+Red Tiger (red.txt)
+Booongo (bng.txt)
+Iron Dog (ids.txt)
+Kalamba Games (kgl.txt)
+Blueprint Gaming (bpg.txt)
+Maverick (mav.txt)
+
+
+**********CASINO
+DG	dg	- 
+WE Entertainment	we	-
+Evolution Gaming	eg	-
+Xtream Gaming	xg	-
+SkyWind Group	swg	swg.txt
+CQ9	cq9	-
+Rich88	r88	-
+JILI	jl	jl.txt
+KINGMAKER	km	km.txt
+Sexy	sexy	-
+BG	bg	-
+AMB Poker	amb	-
+WM	wm	-
+Asia Gaming	ag	-
+SA Gaming	sa	-
+***************

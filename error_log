@@ -1,0 +1,21 @@
+[07-Feb-2023 04:35:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function row() on bool in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php:424
+Stack trace:
+#0 /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php(281): CI_Session_database_driver->_release_lock()
+#1 [internal function]: CI_Session_database_driver->close()
+#2 [internal function]: session_write_close()
+#3 {main}
+  thrown in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php on line 424
+[07-Feb-2023 04:37:04 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function row() on bool in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php:424
+Stack trace:
+#0 /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php(281): CI_Session_database_driver->_release_lock()
+#1 [internal function]: CI_Session_database_driver->close()
+#2 [internal function]: session_write_close()
+#3 {main}
+  thrown in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php on line 424
+[07-Feb-2023 04:38:02 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function row() on bool in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php:424
+Stack trace:
+#0 /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php(281): CI_Session_database_driver->_release_lock()
+#1 [internal function]: CI_Session_database_driver->close()
+#2 [internal function]: session_write_close()
+#3 {main}
+  thrown in /home/dee89/public_html/system/libraries/Session/drivers/Session_database_driver.php on line 424

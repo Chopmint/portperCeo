@@ -1,0 +1,19 @@
+cronjob
+
+* * * * * curl http://localhost/cron/reset_admin_processor/web
+
+* * * * * curl http://localhost/scb/autoapp/web
+
+* * * * * curl http://localhost/scb/refresh_token/web
+
+* * * * * curl http://localhost/refund/get_deposit
+
+* * * * * curl http://localhost/refund/process
+
+* * * * * curl http://localhost/refund/process_new
+
+* * * * * curl http://localhost/amb
+
+* * * * * curl http://localhost/sms/recieve/web
+
+* * * * * curl http://localhost/withdraw/process/web
